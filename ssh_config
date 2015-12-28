@@ -1,0 +1,12 @@
+Host node4
+   Hostname node4
+   User vagrant
+Host node5
+   Hostname node5
+   User vagrant
+Host node6
+   Hostname node6
+   User vagrant
+Host node7
+   Hostname node7
+   User vagrant

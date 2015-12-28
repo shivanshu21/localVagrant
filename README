@@ -1,0 +1,11 @@
+##============================================##
+##      INSTALL CEPH ON FOUR VM CLUSTER       ##
+##============================================##
+
+1. Git clone this repo, then run the command "vagrant init" in the cloned folder
+2. mv Vagrantfile_A Vagrantfile
+3. Read localEnv.sh and make modifications to ensure internet connectivity
+4. Alter ceph.conf for initial mon node IP and keystone settings
+5. Run run.py
+
+## Shivanshu Goswami
